@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JoeLee-KR
+👋 Hi, I’m @JoeLee-KR
 - 🌱 I’m currently learning, just study ...
-
+bye
 
 <!---
 JoeLee-KR/JoeLee-KR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
